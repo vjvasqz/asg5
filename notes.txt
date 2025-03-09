@@ -1,0 +1,38 @@
+Images for skybox texture ->
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+Moon image ->
+https://planetpixelemporium.com/earth.html
+
+
+
+Kangoroo 3D MODEL ->
+Kangaroo by jeremy [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/3yiIERrKNQr)
+
+Bridge 3D MODEL ->
+Bridge by Zsky [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/AmZC4lgg2c)
+
+Bench 3D MODEL ->
+Bench by Danni Bittman [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/dfDUkVthkMT)
+
+Picket Fence 3D MODEL ->
+White Picket Fence by Vice Cooper [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/4ivPc8ObaIn)
+
+Tulip 3D MODEL ->
+Tulip by Hugo Gibson [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/cQ2ejiIig4n)
+
+Pond 3D MODEL ->
+Pond by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/5rf3YuZfJAW)
+
+Mushroom 3D MODEL ->
+Mushroom by jeremy [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/2DAaKHD48ZP)
+
+Billboard 3D MODEL ->
+Billboard by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/eeP3ZFAapFq)
+
+
+==================================================
+Notes to my self for Running the code ->
+    http://localhost:8000
+    ./webserver.sh
+
